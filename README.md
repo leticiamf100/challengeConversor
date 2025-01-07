@@ -76,10 +76,4 @@ As ferramentas abaixo foram utilizadas no desenvolvimento do projeto:
 * [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) - API para cotação de moedas em tempo real.
 * [GSON](https://github.com/google/gson) - Biblioteca para uso JSON
 
-## Desenvolvedor :octocat:
-
-[<img src="https://avatars.githubusercontent.com/u/94912998?s=96&v=4" width=115><br><sub>Alvaro Pires Santos</sub>](https://github.com/alvaropires)
-
-
-
 
