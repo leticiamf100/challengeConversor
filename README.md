@@ -15,7 +15,7 @@ API de Cotações de Moedas: Para buscar as cotações em tempo real.
 ## Como Usar
 1.Clone este repositório para o seu computador:
 2.Copiar código
-git clone https://github.com/seu-usuario/conversor-de-moedas.git
+git clone https://github.com/seu-usuario/challengeConversor.git
 3.Abra o projeto no seu editor de código preferido.
 4.Abra o arquivo index.html no seu navegador para começar a usar o conversor de moedas.
 5.Insira o valor desejado e escolha as moedas de origem e destino para ver o valor convertido.
